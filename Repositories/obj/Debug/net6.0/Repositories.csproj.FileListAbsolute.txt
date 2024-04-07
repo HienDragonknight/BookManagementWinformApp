@@ -1,0 +1,11 @@
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\_code_hien\PRN221\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh\Repositories\obj\Debug\net6.0\ref\Repositories.dll
